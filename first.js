@@ -17,3 +17,6 @@ function updateage(value){
 console.log(updateage(20));
 
 console.log("hello");
+
+const bug="i have fixed bug"
+console.log(bug)
