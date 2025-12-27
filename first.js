@@ -15,3 +15,5 @@ function updateage(value){
 }
 
 console.log(updateage(20));
+
+console.log("hello");
